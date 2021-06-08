@@ -1,0 +1,30 @@
+      ////\\\\
+      |      |
+     @  O  O  @
+      |  ~   |         \__
+       \ -- /          |\ |
+     ___|  |___        | \|
+    /          \      /|__|
+   /            \    / /
+  /  /| .  . |\  \  / /
+ /  / |      | \  \/ /
+<  <  |      |  \   /
+ \  \ |  .   |   \_/
+  \  \|______|
+    \_|______|
+      |      |
+      |  |   |
+      |  |   |
+      |__|___|
+      |  |  |
+
+Level: Tree (3) - Experienced Man
+
+Unlocks on: 2300 shrimp
+
+Rewards on login:
+
+ Bonus gold: + 150 gold
+ Other: + 10 shrimp
+        + 5 sharks
+        + 100 crab

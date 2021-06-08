@@ -1,0 +1,1 @@
+if %money% eq 9999999 goto kicked

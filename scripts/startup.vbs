@@ -1,0 +1,1 @@
+x=msgbox("Number Slayer Fishing Tycoon is successfully booted up, you can play and enjoy the game...",0+0,"Number Slayer")

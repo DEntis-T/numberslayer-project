@@ -1,0 +1,26 @@
+      ////^\\\\
+      | ^   ^ |
+     @ (o) (o) @
+      |   <   |
+      |  ___  |
+       \_____/
+     ____|  |____
+    /    \__/    \
+   /              \
+  /\_/|        |\_/\
+ / /  |        |  \ \
+( <   |        |   > )
+ \ \  |        |  / /
+  \ \ |________| / /
+   \ \|        |
+
+Level: One (1) - Confused Kid
+
+Unlocks on: 525 shrimp
+
+Rewards on login:
+
+ Bonus gold: + 10 gold
+ Other: + 40 shrimp
+        + 3 sharks
+        + 3 flounder

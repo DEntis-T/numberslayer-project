@@ -1,0 +1,32 @@
+       .-""-.
+      /-.{}  \
+      | _\__.|
+      \/^)^ \/
+       \ =  /
+  .---./`--`\.--._
+ /     `;--'`     \
+;        /`       ;
+|       |*        |
+/   |   |     |    \
+|    \  |*    /    |
+\_   |\_|____/|  __/
+  \__//======\\__/
+  / //_      _\\ \
+  -'  |`""""`|  `-
+      |  L   |
+      >_ || _<
+      |  ||  |
+
+
+Level: Four (4) - Fish Commandant
+
+Unlocks on: 4705 shrimp
+
+Rewards on login:
+
+ Bonus gold: + 200 gold
+ Other: + 10 shrimp
+        + 10 sharks
+        + 15 flounder
+        + 20 crab
+        + 1 net
