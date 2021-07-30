@@ -1,5 +1,5 @@
 set username1=DentisT
-set password1=gaming364
+set password1=retard
 set money=5009872397429
 set crab=0
 set shrimp=0
